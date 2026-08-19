@@ -1,2 +1,4 @@
 def use_potion():
     print("체력을 20 회복했습니다.")
+def use_scroll():
+    print("마을로 귀환합니다.")
